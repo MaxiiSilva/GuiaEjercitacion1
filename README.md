@@ -1,4 +1,5 @@
 Estructura del Proyecto
+
 La solución se organiza de la siguiente manera:
 
 EjercicioA.cs (Sección A): Contiene respuestas teóricas y reflexiones sobre conceptos básicos, documentadas dentro de comentarios en el código.
