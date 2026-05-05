@@ -12,4 +12,4 @@ La solución se organiza de la siguiente manera:
 
  ⚫ EjercicioE.cs (Sección E): Desarrollo de una solución práctica desde cero basada en los requerimientos finales de la guía.
 
-Program.cs: Clase principal que orquestal la ejecución de los ejercicios.
+ ⚫ Program.cs: Clase principal que orquestal la ejecución de los ejercicios.
