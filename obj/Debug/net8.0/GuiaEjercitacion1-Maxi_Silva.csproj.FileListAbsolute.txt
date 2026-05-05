@@ -1,0 +1,14 @@
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\bin\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.exe
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\bin\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.deps.json
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\bin\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.runtimeconfig.json
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\bin\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.dll
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\bin\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.pdb
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.AssemblyInfoInputs.cache
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.AssemblyInfo.cs
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.csproj.CoreCompileInputs.cache
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.dll
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\refint\GuiaEjercitacion1-Maxi_Silva.dll
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.pdb
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\GuiaEjercitacion1-Maxi_Silva.genruntimeconfig.cache
+C:\Users\5600g\Desktop\idra 2°\Programacion\guia 1\GuiaEjercitacion1-Maxi_Silva\obj\Debug\net8.0\ref\GuiaEjercitacion1-Maxi_Silva.dll

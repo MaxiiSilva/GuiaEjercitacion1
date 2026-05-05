@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GuiaEjercitacion1-Maxi_Silva/1.0.0": {
+        "runtime": {
+          "GuiaEjercitacion1-Maxi_Silva.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuiaEjercitacion1-Maxi_Silva/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
